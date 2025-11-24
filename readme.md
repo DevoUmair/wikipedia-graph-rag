@@ -34,4 +34,4 @@ Notes
 - Keep secrets out of source control. Use env vars or a local `config.py`.
 - Extend `data_pipeline` to add new ingestion sources or replace the graph backend in `graph_client.py`.
 
-If you'd like, I can add a small `images/output.png` placeholder image or create an `examples/` script that produces that image.
+
