@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-groq
+langchain-experimental
+langchain-neo4j
+python-dotenv
+wikipedia
+neo4j
+langchain-text-splitters
+yfiles_jupyter_graphs_for_neo4j
+streamlit
+sentence_transformers
+langchain_huggingface
