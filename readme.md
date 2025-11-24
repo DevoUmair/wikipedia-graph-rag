@@ -28,7 +28,7 @@ Configuration
 
 Example output
 
-![Sample output image](images/output.png)
+![Sample output image](images/Output.png)
 
 Notes
 - Keep secrets out of source control. Use env vars or a local `config.py`.
